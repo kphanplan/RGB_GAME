@@ -1,2 +1,2 @@
 # RGB_GAME
-An RGB game I can't quite seem to deploy...
+https://kphanplan.github.io/RGB_GAME/
